@@ -4,9 +4,12 @@ h3{
     border: 2px solid red;
     border-radius: 5px;
     text-align: center;
+    width: 200px;
 }
 p{
     background-color: aquamarine;
     border: 2px solid yellowgreen;
     border-radius: 5px;
+    width: 190px;
+    height: 100px;
 }
